@@ -4,7 +4,8 @@
 
 Born to tackle the most complex challenges, to make a breakthrough where everyone else thinks it's impossible.
 
-<img src="https://shields.io" alt="Protocol"> <img src="https://shields.io" alt="Architecture"> <img src="https://shields.io" alt="System">
+![Protocol](https://shields.io) ![Architecture](https://shields.io) ![System](https://shields.io)
+
 
 ## Start Here
 
