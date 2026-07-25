@@ -4,16 +4,7 @@
 
 Born to tackle the most complex challenges, to make a breakthrough where everyone else thinks it's impossible.
 
-> [!NOTE]
-> **Protocol:** Immutable
-
-> [!TIP]
-> **Architecture:** Monolithic
-
-> [!IMPORTANT]
-> **System:** Dual-Contour
-
-
+` Protocol: Immutable ` ` Architecture: Monolithic ` ` System: Dual-Contour `
 
 ## Start Here
 
