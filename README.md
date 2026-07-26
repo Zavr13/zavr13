@@ -4,7 +4,7 @@
 
 Born to tackle the most complex challenges, to make a breakthrough where everyone else thinks it's impossible.
 
-` Protocol: Immutable ` ` Architecture: Monolithic ` ` System: Dual-Contour `
+`Protocol: Immutable` `Architecture: Monolithic` `System: Dual-Contour`
 
 ## Start Here
 
@@ -22,7 +22,7 @@ Born to tackle the most complex challenges, to make a breakthrough where everyon
 └───────────────────────────┬────────────────────────────┘
                             ▼
 ┌────────────────────────────────────────────────────────┐
-│           CONSTANT 2: PRIMACY OF FREE WILL            │
+│           CONSTANT 2: PRIMACY OF FREE WILL             │
 │       (Ban on turning humans into a guided Object)     │
 └───────────────────────────┬────────────────────────────┘
                             ▼
@@ -33,11 +33,11 @@ Born to tackle the most complex challenges, to make a breakthrough where everyon
                             ▼
 ┌────────────────────────────────────────────────────────┐
 │          CONSTANT 4: CHRONO-LOGICAL FRESHNESS          │
-│    (Automatic cancellation of overdue debts & decisions)│
+│   (Automatic cancellation of overdue debts & decisions)│
 └───────────────────────────┬────────────────────────────┘
                             ▼
 ┌────────────────────────────────────────────────────────┐
-│         CONSTANT 5: RIGHT TO MAXIMUM DEFENSE          │
+│         CONSTANT 5: RIGHT TO MAXIMUM DEFENSE           │
 │ (Instant maximum escalation against lies and violence) │
 └────────────────────────────────────────────────────────┘
 ```
