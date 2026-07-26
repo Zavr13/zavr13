@@ -4,7 +4,10 @@
 
 Born to tackle the most complex challenges, to make a breakthrough where everyone else thinks it's impossible.
 
-`Protocol: Immutable` `Architecture: Monolithic` `System: Dual-Contour`
+` Protocol: Immutable ` ` Architecture: Monolithic ` ` System: Dual-Contour `
+
+` Focus: AI Architecture ` ` Core: Payment Infrastructure ` ` Domain: Socio-State Engineering ` ` Method: Philosophy ` ` Analytics: Sociology ` ` Genre: Literature `
+
 
 ## Start Here
 
