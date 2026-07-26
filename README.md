@@ -4,7 +4,7 @@
 
 Born to tackle the most complex challenges, to make a breakthrough where everyone else thinks it's impossible.
 
-`Protocol: Immutable` `Architecture: Monolithic` `System: Dual-Contour`
+\`Protocol: Immutable`\ \`Architecture: Monolithic`\ \`System: Dual-Contour`\
 
 ## Start Here
 
