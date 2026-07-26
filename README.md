@@ -50,4 +50,6 @@ Born to tackle the most complex challenges, to make a breakthrough where everyon
 > * Lifestyle through the prism of business analytics, it is not boring, it is profitable!
 > * Business through creative imagination, frivolous? No, creative and non-standard!
 > 
-> The more complex, the better. **Nothing is impossible.** Everything is real! The most valuable thing in life is freedom! **I am — only I!**
+> The more complex, the better. **Nothing is impossible.**
+> Everything is real! The most valuable thing in life is freedom!
+> **I am — only I!**
