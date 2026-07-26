@@ -53,3 +53,14 @@ Born to tackle the most complex challenges, to make a breakthrough where everyon
 > The more complex, the better. **Nothing is impossible.**
 > Everything is real! The most valuable thing in life is freedom!
 > **I am — only I!**
+## 🛠️ Current Projects
+
+### 🌌 Noo Eternis Core
+* 📦 [noo-eternis](https://github.com) — The immutable monolithic core of the decentralized G2G network, executing the 5 fundamental ethical constants.
+* 🛠️ [White Paper](https://github.com) — Comprehensive civilizational architecture framework and core technological blueprints for the sovereign city of Adge.
+
+### 🗺️ Infrastructure & Gateway Layers
+* 🗺️ [tierra-del-fuego](https://github.com) — External interaction interface for the CEX-world (legacy formats, state attributes, and global integration).
+
+### ⚖️ Autonomous AI & Legal Automation
+* ⚖️ [Scanlaw](https://github.com) — An open-source AI-powered legal architect engineered to analyze contracts, parse compliance risks, and audit codebases.
